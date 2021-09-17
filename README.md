@@ -4,7 +4,7 @@ Projeto de uma Api rest com base do fórum da Alura, realizado como exercício p
 
 ## Tecnologias utilizadas
 
-### Java
+#### Java
 Spring Boot
 Banco de dados H2
 
