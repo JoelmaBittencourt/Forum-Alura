@@ -8,8 +8,8 @@ Java
 Spring Boot
 Banco de dados H2
 
- Funcionalidades:
-pode adcionar um novo topico
-pode remover um topico
-pode alterar as informaçoes deum topico
-pode listar uma lista de topicos ou um topico especifico
+## Funcionalidades:
+ adcionar um novo topico
+ remover um topico
+ alterar as informaçoes deum topico
+ listar uma lista de topicos ou um topico especifico
