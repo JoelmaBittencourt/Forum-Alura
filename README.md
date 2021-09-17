@@ -1,6 +1,6 @@
 # Informaçoes sobre a Api
 
-### Projeto de uma Api rest com base no fórum da Alura, realizado como exercício para a aula de Spring Boot da Alura.
+#### Projeto de uma Api rest com base no fórum da Alura, realizado como exercício para a aula de Spring Boot da Alura.
 
 ## Tecnologias utilizadas
 
