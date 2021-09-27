@@ -16,3 +16,6 @@
 #### Alterar as informaçoes de um topico
 #### Listar uma lista de topicos ou um topico especifico
 #### Retornar erro com tratamento
+
+## Status:
+### Em construção
